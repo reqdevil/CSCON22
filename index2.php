@@ -1,26 +1,7 @@
 <!DOCTYPE html>
  <html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Eventrox - Digital Events HTML Template | Homepage 03</title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-<!--Color Switcher Mockup-->
-<link href="css/color-switcher-design.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-
-</head>
+ <?php include 'utilities/headers.html' ?>
 
 <body>
 
@@ -30,140 +11,57 @@
     <div class="preloader"></div>
  	<!-- Header span -->
 
-    <!-- Header Span -->
-    <span class="header-span"></span>
+    <?php include 'utilities/menu.html' ?>
 
-    <!-- Main Header-->
-    <header class="main-header header-style-two">
-        <div class="main-box">
-            <div class="auto-container clearfix">
-                <div class="logo-box">
-                    <div class="logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
-                </div>
-                
-                <!--Nav Box-->
-                <div class="nav-outer clearfix">
-                    <!--Mobile Navigation Toggler-->
-                    <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
-                    <!-- Main Menu -->
-                    <nav class="main-menu navbar-expand-md navbar-light">
-                        <div class="navbar-header">
-                            <!-- Togg le Button -->      
-                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="icon flaticon-menu-button"></span>
-                            </button>
-                        </div>
-
-                        <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
-                            <ul class="navigation clearfix">
-                                <li class="current dropdown"><a href="index.html">Home</a>
-                                    <ul>
-                                        <li><a href="index.html">Home Classic</a></li>
-                                        <li><a href="index-2.html">Home Conference</a></li>
-                                        <li><a href="index-3.html">Home Meetup</a></li>
-										<li><a href="index-4.html">Home Page Four</a></li>
-                                        <li><a href="index-5.html">Home Page Five</a></li>
-                                        <li class="dropdown"><a href="#">Header Styles</a>
-                                            <ul>
-                                                <li><a href="index.html">Header Style One</a></li>
-                                                <li><a href="index-2.html">Header Style Two</a></li>
-                                                <li><a href="index-3.html">Header Style Three</a></li>
-												<li><a href="index-4.html">Home Page Four</a></li>
-												<li><a href="index-5.html">Home Page Five</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="about-us.html">About</a>
-                                    <ul>
-                                        <li><a href="about-us.html">About Us</a></li>
-                                        <li><a href="pricing.html">Pricing</a></li>
-                                        <li><a href="faqs.html">FAQ's</a></li>
-										<li><a href="gallery.html">Gallery</a></li>
-                                        <li><a href="coming-soon.html">Coming Soon</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="speakers.html">Speakers</a>
-                                    <ul>
-                                        <li><a href="speakers.html">Speakers</a></li>
-                                        <li><a href="speakers-detail.html">Speakers Detail</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="schedule.html">Schedule</a>
-                                    <ul>
-                                        <li><a href="schedule.html">Schedule</a></li>
-                                        <li><a href="event-detail.html">Event Detail</a></li>
-                                        <li><a href="buy-ticket.html">Buy Ticket</a></li>
-                                    </ul>
-                                </li>
-                                <li class="dropdown"><a href="blog-sidebar.html">Blog</a>
-                                    <ul>
-                                        <li><a href="blog-sidebar.html">Blog With Sidebar</a></li>
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                                        <li><a href="blog-single.html">Blog Single</a></li>
-                                        <li><a href="error-page.html">404 Error</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
-                            </ul>
-                        </div>
-                    </nav>
-                    <!-- Main Menu End-->
-
-                    <!-- Outer box -->
-                    <div class="outer-box">
-                        <!--Search Box-->
-                        <div class="search-box-btn"><span class="flaticon-search"></span></div>
-
-                        <!-- Button Box -->
-                        <div class="btn-box">
-                            <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Mobile Menu  -->
-        <div class="mobile-menu">
-            <div class="menu-backdrop"></div>
-            <div class="close-btn"><span class="icon flaticon-cancel-1"></span></div>
-            
-            <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
-            <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
-                
-                <ul class="navigation clearfix"><!--Keep This Empty / Menu will come through Javascript--></ul>
-            </nav>
-        </div><!-- End Mobile Menu -->
-    </header>
-    <!--End Main Header -->
-
-    <!-- Banner Meetup -->
-    <section class="banner-meetup">
-        <div class="bg-pattern" style="background-image: url(images/main-slider/9.jpg);"></div>
-        
-        <div class="layer-outer">
-            <div class="gradient-layer"></div>    
+	<!-- Banner Conference Two -->
+    <section class="banner-conference-two" style="background-image: url(images/background/6.jpg)">
+        <!-- Icons -->
+		<div class="icons parallax-scene-1">
+			<!-- Icon One -->
+			<div data-depth="0.20" class="icon-one parallax-layer" style="background-image:url(images/icons/icon-1.png)"></div>
+			<!-- Icon Two -->
+			<div data-depth="0.50" class="icon-two parallax-layer" style="background-image:url(images/icons/icon-2.png)"></div>
+			<!-- Icon Three -->
+			<div data-depth="0.10" class="icon-three parallax-layer" style="background-image:url(images/icons/icon-3.png)"></div>
+			<!-- Icon Four -->
+			<div data-depth="0.30" class="icon-four parallax-layer" style="background-image:url(images/icons/icon-4.png)"></div>
+			<!-- Icon Five -->
+			<div data-depth="0.10" class="icon-five parallax-layer" style="background-image:url(images/icons/icon-5.png)"></div>
+			<!-- Icon Six -->
+			<div data-depth="0.20" class="icon-six parallax-layer" style="background-image:url(images/icons/icon-6.png)"></div>
+			<!-- Icon Seven -->
+			<div data-depth="0.10" class="icon-seven parallax-layer" style="background-image:url(images/icons/icon-7.png)"></div>
+			<!-- Icon One -->
+			<div data-depth="0.20" class="icon-eight parallax-layer" style="background-image:url(images/icons/icon-1.png)"></div>
+			<!-- Icon Two -->
+			<div data-depth="0.50" class="icon-nine parallax-layer" style="background-image:url(images/icons/icon-8.png)"></div>
+			<!-- Icon Three -->
+			<div data-depth="0.10" class="icon-ten parallax-layer" style="background-image:url(images/icons/icon-3.png)"></div>
+			<!-- Icon Four -->
+			<div data-depth="0.30" class="icon-eleven parallax-layer" style="background-image:url(images/icons/icon-4.png)"></div>
+			<!-- Icon Five -->
+			<div data-depth="0.10" class="icon-twelve parallax-layer" style="background-image:url(images/icons/icon-5.png)"></div>
+			<!-- Icon Six -->
+			<div data-depth="0.20" class="icon-thirteen parallax-layer" style="background-image:url(images/icons/icon-6.png)"></div>
+			<!-- Icon Seven -->
+			<div data-depth="0.10" class="icon-fourteen parallax-layer" style="background-image:url(images/icons/icon-7.png)"></div>
+		</div>
+		<div class="images-outer">
+            <figure class="speaker-img"><img src="images/main-slider/banner_img.png" alt=""></figure>
         </div>
 
         <div class="auto-container">
             <div class="content-box">
-                <div class="address"><span class="icon fa fa-map-marker-alt"></span>Pearl Hotel, New York, USA</div>
-                <h2> Digital Agency <br>Thinkers Meet Up</h2>
+                <span class="title">22-23-24 Mart 2023, Ankara Üniversitesi</span>
+                <h2>Computer Society <br>Congres 2022</h2>
+                <div class="time-counter"><div class="time-countdown clearfix" data-countdown="1/22/2023"></div></div>
+                <div class="btn-box"><a href="buy-ticket.html" class="theme-btn btn-style-two"><span class="btn-title">Kayıt Ol</span></a></div>
             </div>
-            <!-- Countdown -->
-            <div class="countdown clearfix">
-                <div class="time-counter"><div class="time-countdown clearfix" data-countdown="2019/11/27"></div></div>
-            </div>
-            <div class="btn-box">
-                <a href="buy-ticket.html" class="theme-btn btn-style-one"><span class="btn-title">Get Tickets</span></a>
-            </div>
-        </div> 
+        </div>
     </section>
-    <!--End Banner Meetup -->
-
-    <!-- About Section -->
+    <!--End Banner Conference Two -->
+	
+	<!-- About Section -->
     <section class="about-section-two">
         <div class="anim-icons full-width">
             <span class="icon icon-circle-blue wow fadeIn"></span>
@@ -1165,99 +1063,91 @@
     </section>
     <!--End Gallery Section -->
 
-    <!-- Newsletter Section -->
-    <section class="newsletter-section">
-        <div class="anim-icons full-width">
-            <span class="icon icon-shape-3 wow fadeIn"></span>
-            <span class="icon icon-line-1 wow fadeIn"></span>
+    <!--Clients Section-->
+    <section class="clients-section">
+        <div class="anim-icons">
+            <span class="icon icon-dots-3 wow zoomIn"></span>
+            <span class="icon icon-circle-blue wow zoomIn"></span>
         </div>
         <div class="auto-container">
-            <!--Subscribe Form-->
-            <div class="subscribe-form wow fadeInUp" data-wow-delay="500ms">
-                <div class="envelope-image"></div>
-                <div class="form-inner">
-                    <div class="upper-box">
-                        <div class="sec-title text-center">
-                            <div class="icon-box"><span class="fa fa-envelope"></span></div>
-                            <h2>Subscribe our newslatter</h2>
-                            <div class="text">Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm <br>tempor incididunt ut labore dolore magna.</div>
-                        </div>
-                    </div>
-                    <form method="post" action="contact.html">
-                        <div class="form-group">
-                            <input type="email" name="email" value="" placeholder="Your email" required>
-                            <button type="submit" class="theme-btn"><span class="fa fa-paper-plane"></span></button>
-                        </div>
-                    </form>
-                </div>
-            </div> 
-        </div>
-    </section>
-    <!--End Newsletter Section -->
+            <div class="sec-title">
+                <!-- <span class="title">Clients</span> -->
+                <h2>Sponsorlar</h2>
+            </div>
 
-        <!--Clients Section-->
-    <section class="clients-section-three" style="background-image: url(images/background/9.jpg);">
-        <div class="auto-container">
             <div class="sponsors-outer">
-                <div class="sponsors-carousel owl-carousel owl-theme">
+                <h3>Altın Sponsor</h3>
+                <div class="row">
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-1.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-2.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-3.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-4.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sponsors-outer">
+                <h3>Gümüş Sponsorlar</h3>
+
+                <div class="row">
+                    <!-- Client Block -->
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-5.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-6.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-7.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sponsors-outer">
+                <h3>Bronz Sponsorlar</h3>
+
+                <div class="row">
+                    <!-- Client Block -->
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-8.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-9.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></figure>
                     </div>
 
                     <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-10.png" alt=""></a></figure>
-                    </div>
-
-                    <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-11.png" alt=""></a></figure>
-                    </div>
-
-                    <!-- Client Block -->
-                    <div class="client-block">
-                        <figure class="image-box"><a href="#"><img src="images/clients/2-12.png" alt=""></a></figure>
+                    <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                        <figure class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></figure>
                     </div>
                 </div>
             </div>
@@ -1345,7 +1235,6 @@
     </div>
 </div>
 
-<!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
 <script src="js/jquery.js"></script>
 <script src="js/popper.min.js"></script>
@@ -1356,6 +1245,7 @@
 <script src="js/appear.js"></script>
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
+<script src="js/parallax.min.js"></script>
 <script src="js/script.js"></script>
 <!-- Color Setting -->
 <script src="js/color-settings.js"></script>
