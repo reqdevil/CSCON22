@@ -19,11 +19,11 @@
         </header>
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/5.jpg);">
+        <section class="page-title" style="background-image:url(images/background/board.jpg);">
             <div class="auto-container">
-                <h1>Eğitim Takvimi</h1>
+                <h1 style="color: black;">Eğitim Takvimi</h1>
                 <ul class="bread-crumb clearfix">
-                    <li><a href="index.php">Ana Sayfa</a></li>
+                    <li><a href="index.php" style="color: black;">Ana Sayfa</a></li>
                 </ul>
             </div>
         </section>
@@ -32,11 +32,11 @@
         <!-- Etkinlik Takvimi -->
         <section class="schedule-section style-three">
 
-    <div class="auto-container">
+            <div class="auto-container">
 
-    <?php include 'schedule/anti-meridiem.html' ?>
-    </div>
-</section>
+                <?php include 'schedule/lecture.html' ?>
+            </div>
+        </section>
 
         <!-- Footer -->
         <?php include 'utilities/footer.html' ?>

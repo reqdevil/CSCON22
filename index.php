@@ -37,7 +37,7 @@
 
 
         <!-- Geri Sayım Sayacı -->
-        <section class="banner-conference-two" style="background-image: url(images/background/6.jpg)">
+        <section class="banner-conference-two" style="background-image: url(images/background/bg.jpg)">
             <div class="icons parallax-scene-1">
                 <div data-depth="0.20" class="icon-one parallax-layer"
                     style="background-image:url(images/icons/icon-1.png)"></div>
@@ -196,29 +196,29 @@
         <!-- Özellikler Bitiş -->
 
         <!-- Konuşmacılar -->
-        <section class="speakers-section-three">
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <h2>Konferans Konuşmacıları</h2>
-        </div>
+        <section class="speakers-section-three" id="speakers">
+            <div class="auto-container">
+                <div class="sec-title text-center">
+                    <h2>Konferans Konuşmacıları</h2>
+                </div>
 
-        <?php include 'utilities/speakers.html' ?>
-    </div>
-</section>
-        
+                <?php include 'utilities/speakers.html' ?>
+            </div>
+        </section>
+
 
         <!-- Etkinlik Takvimi -->
-        <section class="schedule-section style-three">
+        <section class="schedule-section style-three" id="schedule">
 
-    <div class="auto-container">
-        <div class="sec-title text-center">
-            <h2>Program Akışı</h2>
-        </div>
+            <div class="auto-container">
+                <div class="sec-title text-center">
+                    <h2>Program Akışı</h2>
+                </div>
 
-        <?php include 'utilities/schedule.php' ?>
-    </div>
-</section>
-        
+                <?php include 'utilities/schedule.php' ?>
+            </div>
+        </section>
+
 
         <!-- Sponsorlar -->
         <section class="clients-section">
