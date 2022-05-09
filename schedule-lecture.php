@@ -22,9 +22,6 @@
         <section class="page-title" style="background-image:url(images/background/board.jpg);">
             <div class="auto-container">
                 <h1 style="color: black;">Eğitim Takvimi</h1>
-                <ul class="bread-crumb clearfix">
-                    <li><a href="index.php" style="color: black;">Ana Sayfa</a></li>
-                </ul>
             </div>
         </section>
         <!--End Page Title-->

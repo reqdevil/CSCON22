@@ -69,10 +69,6 @@
                     style="background-image:url(images/icons/icon-7.png)"></div>
             </div>
 
-            <div class="images-outer">
-                <figure class="speaker-img"><img src="images/main-slider/banner_img.png" alt=""></figure>
-            </div>
-
             <div class="auto-container">
                 <div class="content-box">
                     <span class="title">25-26-27 Mart 2022, Ankara Üniversitesi</span>
@@ -123,7 +119,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="btn-box"><a href="contact.html" class="theme-btn btn-style-three"><span
+                            <div class="btn-box"><a href="#" class="theme-btn btn-style-three"><span
                                         class="btn-title">Kayıt Ol</span></a></div>
                         </div>
                     </div>
@@ -131,7 +127,7 @@
                     <!-- Image Column -->
                     <div class="image-column col-lg-6 col-md-12 col-sm-12">
                         <div class="image-box">
-                            <figure class="image wow fadeIn"><img src="images/resource/about-img-2.jpg" alt=""></figure>
+                            <figure class="image wow fadeIn"><img src="images/background/hall.jpg" alt=""></figure>
                         </div>
                     </div>
                 </div>
@@ -147,11 +143,9 @@
                     <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
                         <div class="inner-box">
                             <div class="icon-box"><span class="icon flaticon-lecture"></span></div>
-                            <h4><a href="about.html">Alanında Uzman Eğitmenler</a></h4>
+                            <h4>Alanında Uzman Eğitmenler</h4>
                             <div class="text">Sizlere 30'dan fazla eğitim sunarak kariyerinizi şekillendirmenize
                                 yardımcı oluyoruz.</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn"><span
-                                        class="fa fa-angle-right"></span></a></div>
                         </div>
                     </div>
 
@@ -159,11 +153,9 @@
                     <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp">
                         <div class="inner-box">
                             <div class="icon-box"><span class="icon flaticon-search"></span></div>
-                            <h4><a href="about.html">Deneyim ve Bilgi</a></h4>
+                            <h4>Deneyim ve Bilgi</h4>
                             <div class="text">Yılların getirdiği deneyimlerle beraber sizlere en etkili eğitimi sunmak
                                 için çalışıyoruz.</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn"><span
-                                        class="fa fa-angle-right"></span></a></div>
                         </div>
                     </div>
 
@@ -171,11 +163,9 @@
                     <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
                         <div class="inner-box">
                             <div class="icon-box"><span class="icon flaticon-diamond-1"></span></div>
-                            <h4><a href="about.html">İletişim Ağı Kurma</a></h4>
+                            <h4>İletişim Ağı Kurma</h4>
                             <div class="text">Birbirinden farklı insanlarla tanışma ve deneyimli insanlarla konuşma
                                 şansı sağlıyoruz.</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn"><span
-                                        class="fa fa-angle-right"></span></a></div>
                         </div>
                     </div>
 
@@ -183,11 +173,9 @@
                     <div class="feature-block-three col-lg-6 col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="800ms">
                         <div class="inner-box">
                             <div class="icon-box"><span class="icon flaticon-success"></span></div>
-                            <h4><a href="about.html">Yeni İnsanlar</a></h4>
+                            <h4>Yeni İnsanlar</h4>
                             <div class="text">Etkinliğimizdeki fuaye kısımları sayesinde farklı bilgiler, kültürler ile
                                 kaynaşmanızı sağlıyoruz.</div>
-                            <div class="link-box"><a href="about.html" class="theme-btn"><span
-                                        class="fa fa-angle-right"></span></a></div>
                         </div>
                     </div>
                 </div>
@@ -235,24 +223,8 @@
                 <div class="sponsors-outer">
                     <h3>Altın Sponsor</h3>
                     <div class="row">
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/1.png" alt=""></a></figure>
-                        </div>
-
-                        <!-- Client Block -->
-                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/2.png" alt=""></a></figure>
-                        </div>
-
-                        <!-- Client Block -->
-                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/3.png" alt=""></a></figure>
-                        </div>
-
-                        <!-- Client Block -->
-                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/4.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.tusas.com/"><img src="images/clients/tusas.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
@@ -261,50 +233,70 @@
                     <h3>Gümüş Sponsorlar</h3>
 
                     <div class="row">
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/5.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.aso.org.tr/"><img src="images/clients/aso.png" alt=""></a></figure>
                         </div>
 
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/6.png" alt=""></a></figure>
-                        </div>
-
-                        <!-- Client Block -->
-                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/7.png" alt=""></a></figure>
-                        </div>
-
-                        <!-- Client Block -->
-                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/8.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="http://www.factorialnotion.com/"><img src="images/clients/fns.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
 
                 <div class="sponsors-outer">
-                    <h3>Bronz Sponsorlar</h3>
+                    <h3>Medya Sponsorları</h3>
 
                     <div class="row">
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/9.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.girisimhaberleri.com/"><img src="images/clients/gh.png" alt=""></a></figure>
                         </div>
 
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/10.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.mobiler.dev/"><img src="images/clients/md.png" alt=""></a></figure>
                         </div>
 
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/11.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.bilimsenligi.com/"><img src="images/clients/bs.png" alt=""></a></figure>
                         </div>
 
-                        <!-- Client Block -->
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a href="#"><img src="images/clients/12.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.etkinkampus.com/"><img src="images/clients/ek.png" alt=""></a></figure>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sponsors-outer">
+                    <h3>Ürün Sponsorları</h3>
+
+                    <div class="row">
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://www.ankara.bel.tr/"><img src="images/clients/abb.png" alt=""></a></figure>
+                        </div>
+
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="http://www.bifa.com.tr/"><img src="images/clients/bf.png" alt=""></a></figure>
+                        </div>
+
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://www.instagram.com/coffeeandstudytr/"><img src="images/clients/cs.png" alt=""></a></figure>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sponsors-outer">
+                    <h3>Çekiliş Sponsorları</h3>
+
+                    <div class="row">
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://hoplagit.com/"><img src="images/clients/hop.png" alt=""></a></figure>
+                        </div>
+
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://codeo.com.tr/"><img src="images/clients/co.png" alt=""></a></figure>
+                        </div>
+
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://www.jetbrains.com/"><img src="images/clients/jb.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>

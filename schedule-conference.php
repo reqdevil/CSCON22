@@ -19,12 +19,9 @@
         </header>
 
         <!--Page Title-->
-        <section class="page-title" style="background-image:url(images/background/5.jpg);">
+        <section class="page-title" style="background-image:url(images/background/bg.jpg);">
             <div class="auto-container">
-                <h1>Konferans Takvimi</h1>
-                <ul class="bread-crumb clearfix">
-                    <li><a href="index.php">Ana Sayfa</a></li>
-                </ul>
+                <h1 style="color: black;">Konferans Takvimi</h1>
             </div>
         </section>
         <!--End Page Title-->
