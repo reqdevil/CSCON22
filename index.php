@@ -98,18 +98,20 @@
                                 <span class="title">ETKİNLİK HAKKINDA</span>
                                 <h2>CSCON22'ye Hoşgeldiniz</h2>
                                 <div class="text">IEEE Türkiye Computer Society Kongresi - CSCON bilişim ve yazılım
-                                    sektörüne
-                                    ilgi duyan öğrencilere sektör ile ilgili bilgi vermek, kariyer gelişimlerine katkı
-                                    sağlamak ve
-                                    öğrencileri bu sektörlerde yönelebilecekleri farklı alanlarda verilen eğitimlerle
-                                    teknik yönden
-                                    geliştirmek amacıyla düzenlenecektir.</div>
+                                    sektörüne ilgi duyan öğrencilere sektör ile ilgili bilgi vermek, kariyer
+                                    gelişimlerine katkı sağlamak ve öğrencileri bu sektörlerde yönelebilecekleri farklı
+                                    alanlarda verilen eğitimlerle teknik yönden geliştirmek amacıyla düzenlenecektir. Bu
+                                    sene IEEE Ankara Bilim Üniversitesi ve IEEE Ankara Üniversitesi Öğrenci Kolları ev
+                                    sahipliğinde düzenlenen CSCON22'nin konferansı ATO Kongre Merkezi'nde, eğitimleri
+                                    ise Ankara Üniversitesi Gölbaşı Kampüsü'nde gerçekleşecektir.</div>
                             </div>
                             <div class="row">
                                 <div class="about-block col-lg-6 col-md-6 col-sm-12">
                                     <div class="inner-box">
                                         <h4><span class="icon fa fa-map-marker-alt"></span> Nerede</h4>
-                                        <div class="text">Ankara Üniversitesi<br>Gölbaşı Kampüsü</div>
+                                        <div class="text"><a target="_blank" href="https://goo.gl/maps/cbYm7MDQssGZJ3GQ9">ATO Kongre Merkezi</a>
+                                            <br> <a target="_blank" href="https://goo.gl/maps/zDLn5zijVfb53qDT6">Ankara Üniversitesi Gölbaşı Kampüsü</a>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="about-block col-lg-6 col-md-6 col-sm-12">
@@ -224,7 +226,8 @@
                     <h3>Altın Sponsor</h3>
                     <div class="row">
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.tusas.com/"><img src="images/clients/tusas.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.tusas.com/"><img
+                                        src="images/clients/tusas.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
@@ -234,11 +237,13 @@
 
                     <div class="row">
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.aso.org.tr/"><img src="images/clients/aso.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.aso.org.tr/"><img
+                                        src="images/clients/aso.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="http://www.factorialnotion.com/"><img src="images/clients/fns.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="http://www.factorialnotion.com/"><img
+                                        src="images/clients/fns.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
@@ -248,19 +253,23 @@
 
                     <div class="row">
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.girisimhaberleri.com/"><img src="images/clients/gh.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.girisimhaberleri.com/"><img
+                                        src="images/clients/gh.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.mobiler.dev/"><img src="images/clients/md.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.mobiler.dev/"><img
+                                        src="images/clients/md.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.bilimsenligi.com/"><img src="images/clients/bs.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.bilimsenligi.com/"><img
+                                        src="images/clients/bs.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.etkinkampus.com/"><img src="images/clients/ek.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.etkinkampus.com/"><img
+                                        src="images/clients/ek.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
@@ -270,15 +279,19 @@
 
                     <div class="row">
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.ankara.bel.tr/"><img src="images/clients/abb.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.ankara.bel.tr/"><img
+                                        src="images/clients/abb.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="http://www.bifa.com.tr/"><img src="images/clients/bf.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="http://www.bifa.com.tr/"><img
+                                        src="images/clients/bf.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.instagram.com/coffeeandstudytr/"><img src="images/clients/cs.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank"
+                                    href="https://www.instagram.com/coffeeandstudytr/"><img src="images/clients/cs.png"
+                                        alt=""></a></figure>
                         </div>
                     </div>
                 </div>
@@ -288,15 +301,29 @@
 
                     <div class="row">
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://hoplagit.com/"><img src="images/clients/hop.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://hoplagit.com/"><img
+                                        src="images/clients/hop.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://codeo.com.tr/"><img src="images/clients/co.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://codeo.com.tr/"><img
+                                        src="images/clients/co.png" alt=""></a></figure>
                         </div>
 
                         <div class="client-block col-lg-3 col-md-6 col-sm-12">
-                            <figure class="image-box"><a target="_blank" href="https://www.jetbrains.com/"><img src="images/clients/jb.png" alt=""></a></figure>
+                            <figure class="image-box"><a target="_blank" href="https://www.jetbrains.com/"><img
+                                        src="images/clients/jb.png" alt=""></a></figure>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sponsors-outer">
+                    <h3>Tercih Sponsorları</h3>
+
+                    <div class="row">
+                        <div class="client-block col-lg-3 col-md-6 col-sm-12">
+                            <figure class="image-box"><a target="_blank" href="https://univerlist.com/"><img
+                                        src="images/clients/uni.png" alt=""></a></figure>
                         </div>
                     </div>
                 </div>
